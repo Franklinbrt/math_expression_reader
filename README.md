@@ -1,6 +1,6 @@
 # math_expression_reader
 
-A C++ package for calculating saved math expressions in real time
+A C++ package for calculating saved math expressions in real time using the [exprtk](https://github.com/ArashPartow/exprtk) library
 
 ## 1. Building Package
 
