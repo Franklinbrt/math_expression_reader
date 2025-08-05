@@ -1,0 +1,4 @@
+L0*(ct0-1)*cp0/theta0 + L1*(pow(sp0,2)+pow(cp0,2)*ct0)*cst11*cp1/theta1 + L1*(ct0-1)*cst11*sp0*sp1*cp0/theta1 - L1*st0*ss1*cp0/theta1
+L0*(ct0-1)*sp0/theta0 + L1*(pow(sp0,2)*ct0+pow(cp0,2))*cst11*sp1/theta1 + L1*(ct0-1)*cst11*sp0*cp0*cp1/theta1 - L1*sp0*st0*ss1/theta1
+-L0*st0/theta0 - L1*cst11*sp0*sp1*st0/theta1 - L1*cst11*st0*cp0*cp1/theta1 - L1*ss1*ct0/theta1
+
